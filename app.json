@@ -1,7 +1,7 @@
 {
     "name": "String Gen Bot",
     "description": "A Telegram Bot to generate Telethon and Pyrogram String Session.",
-    "logo": "https://telegra.ph/file/654ddaf472f18b799600b.jpg",
+    "logo": "https://telegra.ph/file/94e013900d86ff5899439.jpg",
     "keywords": [
         "python3",
         "telegram",
@@ -11,16 +11,16 @@
         "pyrogram",
         "telethon"
     ],
-    "repository": "https://github.com/AnonymousX1025/StringGenBot",
+    "repository": "https://github.com/sakil000/StringGenBot",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "29392888",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "552b53d2c5b39cf1d9267ccd17464015",
         "required": true
       },
       "BOT_TOKEN": {
@@ -30,7 +30,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "",
+        "value": "6024212623",
         "required": true
       },
       "MONGO_DB_URI": {
